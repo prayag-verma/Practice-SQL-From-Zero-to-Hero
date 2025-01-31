@@ -27,7 +27,7 @@ SQL-exercise
 
 ```
 
-## Prayag-Verma
+## https://profile.aimtocode.com/
 ## [https://github.com/prayag-verma](https://github.com/prayag-verma/Practice-SQL-From-Zero-to-Hero)
 
 ## License

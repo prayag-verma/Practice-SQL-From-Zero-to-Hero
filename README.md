@@ -28,7 +28,7 @@ SQL-exercise
 ```
 
 ## Prayag-Verma
-## [github.com/prayag-verma](https://github.com/prayag-verma)
+## [https://github.com/prayag-verma](https://github.com/prayag-verma/Practice-SQL-From-Zero-to-Hero)
 
 ## License
 Please note this repostory is under the Creative Commons Attribution-ShareAlike License[https://creativecommons.org/licenses/by-sa/3.0/].

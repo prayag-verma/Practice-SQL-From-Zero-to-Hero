@@ -77,7 +77,7 @@ To get the most out of these exercises:
 ### 🤝 **Contributors**  
 
 👤 **Prayag Verma**  
-👥 **The University of texas at Dallas**  
+👥 **Data Engineer**  
 
 🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
 🔗 **Portfolio:**  → [profile.aimtocode.com](https://profile.aimtocode.com/)

@@ -80,7 +80,7 @@ To get the most out of these exercises:
 👥 **Data Engineer**  
 
 🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
-🔗 **Portfolio:**  → [profile.aimtocode.com](https://profile.aimtocode.com/)
+🔗 **Portfolio:**  → [prayagverma.com](https://prayagverma.com/)
 
 
 💬 Feel free to raise an issue or contribute via pull requests!  
